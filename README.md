@@ -90,4 +90,4 @@ cd task-manager-api
 
 ## 🪭 Autor
 
-[![GitHub](https://img.shields.io/badge/Zevynn?style=social&logo=GitHub%20&label=Github)](https://github.com/ZevynnDev)
+[![GitHub](https://img.shields.io/badge/GitHub-Zevynn-181717?logo=github&style=social)](https://github.com/ZevynnDev)
