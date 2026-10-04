@@ -74,3 +74,20 @@ task-manager-api/
 ├── Tarefa.java
 ├── GerenciadorTarefas.java
 └── .gitignore
+
+---
+
+## ⭐️ Como utilizar
+
+```bash
+git clone https://github.com/ZevynnDev/task-manager-api
+cd task-manager-api
+```
+### 🍙 Requisitos
+- Ter **JDK-18** ou **superior**
+
+---
+
+## 🪭 Autor
+
+[![GitHub](https://img.shields.io/badge/Zevynn?style=social&logo=GitHub%20&label=Github)](https://github.com/ZevynnDev)
