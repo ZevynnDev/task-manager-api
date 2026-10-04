@@ -6,7 +6,7 @@
 
 O projeto foi desenvolvido para praticar conceitos de Java e construir uma base para futuros projetos de backend.
 
-Atualmente, o sistema permite gerenciar tarefas através de operações básicas de CRUD.
+Atualmente, o sistema permite gerenciar tarefas através de operações básicas de CRUD. Mais funções serão adicionadas conforme minha progressão com as funcionalidades do backend.
 
 ### 🛠️ Tecnologias
 
