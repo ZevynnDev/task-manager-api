@@ -7,6 +7,9 @@
 
 <div align="center">
 
+<img src="https://i.pinimg.com/originals/83/d6/58/83d658258c4e07b03c8b7e5d024d1e49.gif" alt="gif flores vermelhas"
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:8B0000,100:3D0000&height=160&section=header&text=Task%20Manager%20API&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%"/>
 
 <br>
