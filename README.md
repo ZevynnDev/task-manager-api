@@ -74,7 +74,7 @@ task-manager-api/
 ├── Tarefa.java
 ├── GerenciadorTarefas.java
 └── .gitignore
-
+```
 ---
 
 ## ⭐️ Como utilizar
