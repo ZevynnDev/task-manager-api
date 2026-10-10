@@ -1,22 +1,12 @@
-<!--
-  ╔══════════════════════════════════════════════════════════════╗
-  ║                  T A S K   M A N A G E R                   ║
-  ║                     Java Backend                            ║
-  ╚══════════════════════════════════════════════════════════════╝
--->
-
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/eb/40/e5/eb40e5538692eba012f20c4cc3cf52be.gif" alt="gif flores vermelhas">
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:8B0000,100:3D0000&height=160&section=header&text=Task%20Manager%20API&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12408a,50:2664c7,100:116bfa&height=160&section=header&text=Task%20Manager%20API&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%"/>
 
 <br>
 
-### 🌙 Java · Backend · CRUD
+### ☕Java • 💻Backend
 
-**Um gerenciador de tarefas desenvolvido em Java puro.**
+**A task manager made in Java.**
 
 <br>
 
@@ -26,50 +16,39 @@
 
 ---
 
-## 🪐 Sobre
+### 🪐 About
 
-O **Task Manager API** é um projeto desenvolvido para praticar conceitos de **Java** e construir uma base para futuros projetos de backend.
-
-A aplicação permite criar, listar, concluir e remover tarefas através de operações básicas de **CRUD**.
-
-O projeto está sendo desenvolvido de forma incremental, adicionando novas funcionalidades conforme novos conceitos são aprendidos.
+The **Task Manager API** is a task manager made on **Java**, it was created to help me learning the base of **Java** and **CRUD**.
+The project will be updated as I learn more about **databases** and other technologies from **backend**.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+### 🛠️ Techs and Tools
 
 <div align="center">
 
-| 🧩 Área | 🔥 Tecnologias |
-| :---: | :--- |
-| **Linguagem** | Java |
-| **Versionamento** | Git · GitHub |
-| **Estrutura** | Classes · Objetos · ArrayList |
-| **Ambiente** | Java Development Kit (JDK) |
+| Category | Technology | Status/Usage |
+| --- | --- | --- |
+| **💻 Backend Language** | ☕ Java | ⚙️ Core |
+| **📊 Database** | 🐘 PostgreSQL | 🗄️ Manage data |
+| **🔨 Code Version** | ⚡ Git and GitHub | 🚀 Pull and commits |
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,git,github&perline=3&theme=dark" alt="Tech Stack"/>
 
 </div>
 
 ---
 
-## 💡 Funcionalidades
+### 💡 Features
 
-- ➕ Adicionar novas tarefas
-- 📋 Listar tarefas cadastradas
-- ✅ Concluir tarefas
-- 🗑️ Remover tarefas
-- 🔄 Operações básicas de CRUD
+- [X] ➕ **Add** new tasks
+- [X] 📋 **List** tasks
+- [X] ✅ Mark tasks **as done**
+- [X] 🗑️ **Remove** tasks
+- [X] 🔄 Basic **CRUD** operations
 
 ---
 
-## 📁 Estrutura do projeto
+### 📁 Project files
 
 ```text
 task-manager-api/
@@ -80,17 +59,17 @@ task-manager-api/
 ```
 ---
 
-## ⭐️ Como utilizar
+### ⭐️ How to use
 
 ```bash
 git clone https://github.com/ZevynnDev/task-manager-api
 cd task-manager-api
 ```
-### 🍙 Requisitos
-- Ter **JDK-18** ou **superior**
+### 🍙 Requirements
+- **JDK 18** or **newer**
 
 ---
 
-## 🪭 Autor
+### 💙 Author
 
-[![GitHub](https://img.shields.io/badge/GitHub-Zevynn-A8202A?logo=github&style=flat-square&labelColor=111111)](https://github.com/ZevynnDev)
+[![GitHub](https://img.shields.io/badge/GitHub-Zevynn-1e92e6?logo=github&style=flat-square&labelColor=111111)](https://github.com/ZevynnDev)
