@@ -1,6 +1,11 @@
+# Java
 *.class
 out/
-.idea
-.vscode
+
+# IDEs
+.idea/
+.vscode/
+
+# Sistema
 .DS_Store
 Thumbs.db
